@@ -1,0 +1,27 @@
+.head{
+	background:url(../img/d.jpg) no-repeat center center fixed;
+	background-size:cover;
+	height:400px;
+	text-align: center
+}
+h1.rise{
+	color:white;
+	padding-top:13%;
+	font-size:100px;
+}
+ul.nav{
+	margin-top:50px;
+	text-align: center;
+}
+img.two{
+	height:150px;
+	margin-top:30px;
+
+}
+div.intro, .abt, .renraku, .shashin{
+	opacity:0;
+
+}
+div.gogo, .dudu, .juju, .ruru{
+	opacity:1;
+}
